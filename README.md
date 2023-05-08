@@ -6,10 +6,10 @@ the "rapport.pdf" file contains a very detailed description of each part of the 
 ## Installation
 Just clone the repository with the git clone command, then type :
 
-'''
+```
 cd Blockchain/main
 make all
-'''
+```
 
 you will have 4 main files to test each part of the project.
 
@@ -17,8 +17,8 @@ you will have 4 main files to test each part of the project.
 
 still in the main folder, type :
 
-'''
+```
 ./main_test_p#
-'''
+```
 
 replace # with the number of the part you want to try out.
