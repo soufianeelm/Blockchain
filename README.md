@@ -1,2 +1,2 @@
 # Blockchain
-Repository for a project related blockchain implementation
+Repository for a project related to blockchain implementation
